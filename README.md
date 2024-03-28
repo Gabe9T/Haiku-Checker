@@ -1,5 +1,7 @@
 # Haiku Checker
 
+![Haiku Checker](./src/assets/readmegif.gif)
+
 #### A JS app to check if a haiku meets the syllable rules
 
 By Henry Oberholtzer & Gabriel Tucker
