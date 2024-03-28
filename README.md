@@ -4,7 +4,8 @@
 
 #### A JS app to check if a haiku meets the syllable rules
 
-By Henry Oberholtzer & Gabriel Tucker
+By 
+[Gabriel Tucker](mailto:gabrieltuckereze@gmail.com) & [Henry Oberholtzer](mailto:henryoberholtzer@gmail.com)
 
 ## Technologies Used
 
@@ -30,3 +31,4 @@ Accepts a string for a haiku and returns the syllable count and if it passes as 
 
 Copyright [Henry Oberholtzer](https://www.henryoberholtzer.com/) & Gabriel Tucker (c) 2023
 Code licensed under GNU GPLv3
+
